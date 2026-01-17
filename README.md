@@ -1,4 +1,2 @@
-# rndproj-tz36ging
-
-Random c project for scratch.
-
+# rndproj-tz36ging\n\nSmall log summarizer tool.\n
+New-FileDef
